@@ -84,7 +84,7 @@ Pour démarrer le projet, veuillez cloner ce dernier et suivre les instructions 
 
 _Pour lancer les test unitaire vous pouvez utlisez la commande ci-dessous._
 
-1. Clone the repo
+1. Lancer le test unitaire
    ```sh
    npm run test
    ```

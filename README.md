@@ -79,6 +79,7 @@ Pour démarrer le projet, veuillez cloner ce dernier et suivre les instructions 
   NB: Assurez vous d'avoir installer le module http-server en locale de manière globale : npm install -g http-server
 
   Le serveur démarre et vous pouvez vous rendre sur le lien : http://127.0.0.1:8080/index.html
+  Exemple d'usage du filtre : http://localhost:8080/?age=20-50&eyeColor=blue
 
 ### Lancer les test unitaires
 
@@ -94,5 +95,6 @@ _Pour lancer les test unitaire vous pouvez utlisez la commande ci-dessous._
 ## Lien du module online
 
 _Vous pouvez accéder au projet en ligne ici [LIEN](https://table-module.000webhostapp.com)_
+Exemple usage paramètre de filtre : https://table-module.000webhostapp.com/?eyeColor=brown&age=20-25
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
